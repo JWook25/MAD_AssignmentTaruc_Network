@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007312573093",
+    "firebase_url": "https://mad-assignment-79584.firebaseio.com",
+    "project_id": "mad-assignment-79584",
+    "storage_bucket": "mad-assignment-79584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007312573093:android:d793087cb2a0f8f350f34c",
+        "android_client_info": {
+          "package_name": "com.example.mad_assignmenttaruc_network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007312573093-kns9ma7g2udk8ul4rf7bvim9qulfggnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyNvV4UeTZD89b6aCrisTLGUpuvEV8TDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007312573093-kns9ma7g2udk8ul4rf7bvim9qulfggnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

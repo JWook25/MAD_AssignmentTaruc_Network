@@ -1,0 +1,2 @@
+rootProject.name='MAD_AssignmentTaruc_Network'
+include ':app'
